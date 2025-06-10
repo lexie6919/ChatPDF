@@ -1,0 +1,25 @@
+# Local environment variables
+.env
+backend/.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS artifacts
+.DS_Store
+Thumbs.db 
